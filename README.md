@@ -150,7 +150,7 @@ Call the `./train.sh` script with the following main arguments:
 
 ## Citation
 
-If you want to reference [our paper](https://arxiv.org/abs/1912.05372), please use the following BibTeX snippet:
+If you want to reference [our paper](https://arxiv.org/abs/1905.05677), please use the following BibTeX snippet:
 
 ```
 @InProceedings{vial-etal-2019-sense,
